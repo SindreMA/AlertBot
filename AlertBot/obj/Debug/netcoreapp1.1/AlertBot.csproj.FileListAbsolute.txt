@@ -1,0 +1,9 @@
+D:\Bots\AlertBot\AlertBot\bin\Debug\netcoreapp1.1\TemplateBot.deps.json
+D:\Bots\AlertBot\AlertBot\bin\Debug\netcoreapp1.1\TemplateBot.runtimeconfig.json
+D:\Bots\AlertBot\AlertBot\bin\Debug\netcoreapp1.1\TemplateBot.runtimeconfig.dev.json
+D:\Bots\AlertBot\AlertBot\bin\Debug\netcoreapp1.1\TemplateBot.dll
+D:\Bots\AlertBot\AlertBot\bin\Debug\netcoreapp1.1\TemplateBot.pdb
+D:\Bots\AlertBot\AlertBot\obj\Debug\netcoreapp1.1\AlertBot.csprojResolveAssemblyReference.cache
+D:\Bots\AlertBot\AlertBot\obj\Debug\netcoreapp1.1\AlertBot.AssemblyInfo.cs
+D:\Bots\AlertBot\AlertBot\obj\Debug\netcoreapp1.1\TemplateBot.dll
+D:\Bots\AlertBot\AlertBot\obj\Debug\netcoreapp1.1\TemplateBot.pdb
