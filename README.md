@@ -9,7 +9,9 @@ To start the bot, install .Net Core then do "dotnet run -project "PATH TO THE Al
 
 
 
-Compiling
+
+
+
 
 This bot requires:
 
